@@ -4,6 +4,6 @@ Hypertext S-expression
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/skyizwhite/hsx.git |
-| commit  | d1ce582                                   |
+| commit  | 6af8667                                   |
 | systems | hsx                                       |
 |---------+-------------------------------------------|
